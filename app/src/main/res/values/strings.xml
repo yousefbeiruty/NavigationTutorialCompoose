@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NavigationTutorial</string>
+    <string name="strFetchingDataFromServer">Fetch data\n</string>
+    <string name="strRetry">Retry\n</string>
+</resources>

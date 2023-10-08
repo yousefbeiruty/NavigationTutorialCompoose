@@ -1,0 +1,28 @@
+
+Xkotlin:S1172~"4Remove this unused function parameter "onItemClick".(Ë˜íƒúÿÿÿÿ8öÓÿ×­1
+Ykotlin:S1172c":Use "_" instead of this unused lambda parameter "newText".(ñ£êâ8öÓÿ×­1
+ckotlin:S1172e"?Use "_" instead of this unused lambda parameter "selectedItem".(ñ´óøÿÿÿÿÿ8öÓÿ×­1
+=kotlin:S125p"Remove this commented out code.(Ğ³Û‡8ùÓÿ×­1
+>kotlin:S125ß"Remove this commented out code.(ù“š±8ùÓÿ×­1
+Gkotlin:S1481Y"(Remove this unused "lis" local variable.(§ª›í8Ôÿ×­1
+9kotlin:S1128"Remove this unused import.(ÓşÈÆ8ƒÔÿ×­1
+>kotlin:S1128"Remove this unused import.(é¢êáüÿÿÿÿ8ƒÔÿ×­1
+8kotlin:S1128"Remove this unused import.(†ùÎ&8ƒÔÿ×­1
+>kotlin:S1128"Remove this unused import.(òû±¢ùÿÿÿÿ8„Ôÿ×­1
+9kotlin:S1128"Remove this unused import.(™òæÜ8„Ôÿ×­1
+9kotlin:S1128"Remove this unused import.(ç½ŸĞ8„Ôÿ×­1
+9kotlin:S1128"Remove this unused import.(ô¶½–8„Ôÿ×­1
+9kotlin:S1128"Remove this unused import.(‡º¢ğ8„Ôÿ×­1
+9kotlin:S1128*"Remove this unused import.(ıáş8„Ôÿ×­1
+9kotlin:S11282"Remove this unused import.(ÀÏ­–8„Ôÿ×­1
+>kotlin:S11285"Remove this unused import.(õÜ¦åûÿÿÿÿ8„Ôÿ×­1
+>kotlin:S11287"Remove this unused import.(âøÔüÿÿÿÿ8„Ôÿ×­1
+>kotlin:S1128:"Remove this unused import.(À†ŠÔùÿÿÿÿ8„Ôÿ×­1
+>kotlin:S1128<"Remove this unused import.(µ–×‚ıÿÿÿÿ8„Ôÿ×­1
+9kotlin:S1128="Remove this unused import.(ôÄ¼ü8„Ôÿ×­1
+>kotlin:S1128A"Remove this unused import.(Õş÷©úÿÿÿÿ8„Ôÿ×­1
+9kotlin:S1128B"Remove this unused import.(È‘öÕ8„Ôÿ×­1
+9kotlin:S1128C"Remove this unused import.(½í¾Á8„Ôÿ×­1
+8kotlin:S1128J"Remove this unused import.(”¢)8„Ôÿ×­1
+>kotlin:S1128O"Remove this unused import.(€“ïìùÿÿÿÿ8„Ôÿ×­1
+nkotlin:S1192·"IDefine a constant instead of duplicating this literal " section" 3 times.(ÄÊ¯ëúÿÿÿÿ8…Ôÿ×­1
